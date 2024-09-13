@@ -1,3 +1,5 @@
+https://github.com/Denis-Shabanov/startUP/blob/master/StartUP-kgl.ipynb
+
 # Операции стартапов / близкие прогнозы
 
 Датасет состоит из двух файлов: 
